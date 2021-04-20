@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hardik11794/monsters-rolodex.git/static/css/main.cc5f2c21.chunk.css",
+    "main.js": "/Hardik11794/monsters-rolodex.git/static/js/main.7b75249a.chunk.js",
+    "main.js.map": "/Hardik11794/monsters-rolodex.git/static/js/main.7b75249a.chunk.js.map",
+    "runtime-main.js": "/Hardik11794/monsters-rolodex.git/static/js/runtime-main.10dd241b.js",
+    "runtime-main.js.map": "/Hardik11794/monsters-rolodex.git/static/js/runtime-main.10dd241b.js.map",
+    "static/js/2.47d3de12.chunk.js": "/Hardik11794/monsters-rolodex.git/static/js/2.47d3de12.chunk.js",
+    "static/js/2.47d3de12.chunk.js.map": "/Hardik11794/monsters-rolodex.git/static/js/2.47d3de12.chunk.js.map",
+    "static/js/3.9db938e1.chunk.js": "/Hardik11794/monsters-rolodex.git/static/js/3.9db938e1.chunk.js",
+    "static/js/3.9db938e1.chunk.js.map": "/Hardik11794/monsters-rolodex.git/static/js/3.9db938e1.chunk.js.map",
+    "index.html": "/Hardik11794/monsters-rolodex.git/index.html",
+    "static/css/main.cc5f2c21.chunk.css.map": "/Hardik11794/monsters-rolodex.git/static/css/main.cc5f2c21.chunk.css.map",
+    "static/js/2.47d3de12.chunk.js.LICENSE.txt": "/Hardik11794/monsters-rolodex.git/static/js/2.47d3de12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10dd241b.js",
+    "static/js/2.47d3de12.chunk.js",
+    "static/css/main.cc5f2c21.chunk.css",
+    "static/js/main.7b75249a.chunk.js"
+  ]
+}
